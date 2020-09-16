@@ -1,0 +1,14 @@
+body {
+  background: #5bc254;
+}
+
+.main {
+  width: 70%; /* Ширина элемента в пикселах */
+  padding: 10px; /* Поля вокруг текста */
+  margin: auto; /* Выравниваем по центру */
+}
+
+h1 {
+  width: 700;
+  font-family: "Roboto", sans-serif;
+}
