@@ -9,6 +9,10 @@ body {
 }
 
 h1 {
+  margin: 20px, 0px, 10px, 0px;
   width: 700;
   font-family: "Roboto", sans-serif;
+}
+p {
+  margin: 50em, 0px, 20px, 0px;
 }
